@@ -19,6 +19,9 @@ AWS_KEY = your_aws_key
 AWS_SECRET_KEY = your_aws_secret_key
 BUCKET = your_s3_bucket
 ```
+
+Create a folder Documents/ in S3
+
 The Documents folder in this repository shows you the documents and the addresses processed (*addresses.xlsx and *addresses_validated.xlsx)
 
 __To protect the keys the *map.html file is stored in the local disk__
